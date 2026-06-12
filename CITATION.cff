@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics"
+authors:
+  - family-names: Itkin
+    given-names: Igor
+    orcid: "https://orcid.org/0009-0004-9513-8463"
+preferred-citation:
+  type: article
+  title: "Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics"
+  authors:
+    - family-names: Itkin
+      given-names: Igor
+      orcid: "https://orcid.org/0009-0004-9513-8463"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2606.12476"
+      description: "arXiv preprint"
