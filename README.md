@@ -80,6 +80,14 @@ python info_theory_limits.py           # captured-MI ceiling
 python pac_bayes_poc.py                # effective sample size / redundancy
 ```
 
+## Robustness analysis (paper Section 4.4 and Appendix F)
+
+The [`robustness/`](robustness/) directory holds the server-side experiment scripts
+behind the v3 robustness section: the three levers that could break the 4.5x deficit
+(richer self-consistency features, a rate-aware objective, a multivariate accumulator)
+and why each fails, plus the covariance-term detector and additional probes. See
+[`robustness/README.md`](robustness/README.md) for the script-to-claim map.
+
 ## Tests
 
 ```bash
